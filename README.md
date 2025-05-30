@@ -95,7 +95,7 @@ ReadMasterAI is an AI-powered web application that helps developers effortlessly
 
 **Example:**
 
-![ReadMasterAI Demo Screenshot](public/demo-screenshot.png) <!-- Add actual screenshot if available -->
+![ReadMasterAI Demo Screenshot](demo-screenshot.png) <!-- Add actual screenshot if available -->
 
 ---
 
